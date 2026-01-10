@@ -48,4 +48,6 @@ virtualenv==20.24.5
 Werkzeug==3.0.4
 wheel==0.44.0
 wrapt==1.16.0
+tensorflow-cpu==2.15.0
+keras==2.15.0
 
